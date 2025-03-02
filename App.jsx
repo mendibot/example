@@ -9,7 +9,7 @@ const {data, loading, error} = useFetch(
 
 return (
     <div className="App">
-        <h1>Fetchmaybe like  Like a P</h1>
+        <h1>Fetchmaybe like  Like a Pro</h1>
         <div className="card">
             <ul>
                 {error && <li>Error {error}</li>}
